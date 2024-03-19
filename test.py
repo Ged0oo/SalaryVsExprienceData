@@ -8,7 +8,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score, mean_squared_error
 
 import os
-os.chdir(r"E:\New folder\Python")
+os.chdir(r"E:\New folder\ML\SalaryVsExprienceData")
 data = pd.read_csv("Salary_Data.csv")
 
 data.info()
