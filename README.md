@@ -34,10 +34,10 @@ The salary_vs_experience_regression.py script performs the following steps:
 The output includes several plots and performance metrics:
 
 	- Training Set - Salary vs Experience
-	![Image Alt Text](./Figure_1.png)
+ ![Image Alt Text](./Figure_1.png)
 
 	- Testing Set - Salary vs Experience
-	![Image Alt Text](./Figure_2.png)
+![Image Alt Text](./Figure_2.png)
 
 	- Actual vs Predicted Salaries
-	![Image Alt Text](./Figure_3.png)
+ ![Image Alt Text](./Figure_3.png)
